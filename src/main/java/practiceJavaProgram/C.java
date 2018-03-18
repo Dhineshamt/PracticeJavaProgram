@@ -1,4 +1,4 @@
-package PracticeJava.PracticeJavaProgram;
+package practiceJavaProgram;
 
 public class C {
 	public  static void main(String[] args) {

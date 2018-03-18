@@ -1,4 +1,4 @@
-package PracticeJava.PracticeJavaProgram;
+package practiceJavaProgram;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;

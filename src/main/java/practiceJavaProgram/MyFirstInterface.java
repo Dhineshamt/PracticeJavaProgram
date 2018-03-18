@@ -1,4 +1,4 @@
-package PracticeJava.PracticeJavaProgram;
+package practiceJavaProgram;
 
 public interface MyFirstInterface {
 	
