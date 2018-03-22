@@ -8,8 +8,8 @@ public class B {
 	public void testMethod() {	
 	}	
 	
-	public static void main (String args[]) {
-		Map<String,ArrayList<String>> addElmt = new HashMap<>();
+	public void obj () {
+		/*Map<String,ArrayList<String>> addElmt = new HashMap<>();
 		
 		ArrayList<String> elmtAdd = new ArrayList<>();
 		
@@ -19,8 +19,9 @@ public class B {
 		
 		addElmt.put("Dhines", elmtAdd);
 		
-		elmtAdd.clear();
 		
-		System.out.println(addElmt);
+		System.out.println(addElmt);*/
+		
+		System.out.println("This is Object");
 	}
 }

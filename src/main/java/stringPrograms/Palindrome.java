@@ -10,7 +10,7 @@ public class Palindrome {
 		char[] charArray;
 		
 		for(int i=length-1;length<=0;i--) {
-			reversedString = reversedString.concat(name.charAt(length));
+			//reversedString = reversedString.concat(name.charAt(length));
 		}
 
 	}
