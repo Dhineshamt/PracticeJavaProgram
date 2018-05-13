@@ -6,9 +6,10 @@ public class SingetonUser {
 		SingletonClass obj1 = SingletonClass.getInstance();
 		SingletonClass obj2 = SingletonClass.getInstance();
 		
-		
-		obj1.printSingleton(10);
-		obj2.printSingleton(10);
+		System.out.println(obj1.toString());
+		System.out.println(obj2.toString());
+		/*obj1.printSingleton(10);
+		obj2.printSingleton(10);*/
 		
 
 	}

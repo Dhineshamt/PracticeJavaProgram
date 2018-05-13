@@ -4,6 +4,9 @@ import java.util.Iterator;
 
 public class IteratorPractice {
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		int j;
 		ArrayList<Integer> numbers = new ArrayList<>();
