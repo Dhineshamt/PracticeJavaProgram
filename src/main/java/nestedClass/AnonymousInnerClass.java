@@ -9,7 +9,7 @@ public class AnonymousInnerClass {
 			System.out.println("This is anonymous class implementation");	
 			}
 		};
-		obj.methodToCallAnonymousClass();
+		//obj.methodToCallAnonymousClass();
 
 	}
 
